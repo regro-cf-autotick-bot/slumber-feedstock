@@ -16,9 +16,7 @@ It acts as a wrapper around the excellent requests library and abstracts away th
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/slumber-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/slumber-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/slumber-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/slumber-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/slumber-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/slumber-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/slumber-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/slumber-feedstock)
 
 Current release info
 ====================
